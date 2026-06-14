@@ -4,7 +4,7 @@ A lightweight JSON pub file editor for reoserv / Endless Online servers.
 
 EOjson works alongside [pub2json](https://github.com/sorokya/pub2json) — use pub2json to convert your binary `.eif`, `.enf`, `.ecf`, `.esf` files to JSON, then use EOJson to browse and edit them with a clean dark-themed interface.
 
-![EOJson](demo.png)
+![EOJson](eojson-example.png)
 
 ## Features
 
